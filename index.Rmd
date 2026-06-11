@@ -1,0 +1,15 @@
+---
+title: "Joan D'Aguilar"
+image: "JoanDaguilar.JPG"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/joandaguilar/"
+  - label: GitHub
+    url: "https://github.com/JoanDaguilar"
+  - label: Email
+    url: "mailto:joandaguilar@spelman.edu"
+output:
+  postcards::jolla
+---
+
+I am an undergraduate researcher interested in Biomedical Engineering using genomics to understand Health equity.
