@@ -1,2 +1,2 @@
 # joandaguilar.github.io
-I am an Undergraduate student from Spelman College interested in the intersection of Public Health Data and Biomedical Engineering, using Genomics to understand Health Inequality. 
+This repository holds my personal website. Work in progress. 
